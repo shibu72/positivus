@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 import React from 'react'
 
 export default function page() {
@@ -6,12 +5,3 @@ export default function page() {
     <div>page</div>
   )
 }
-=======
-import React from 'react'
-
-export default function page() {
-  return (
-    <div>page</div>
-  )
-}
->>>>>>> origin
