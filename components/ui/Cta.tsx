@@ -22,7 +22,7 @@ export default function Cta() {
           className="m-auto "
           width={359}
           height={394.27}
-          src={"/images/illustration6.png"}
+          src={"/images/Illustration6.png"}
           alt=""
         />
       </div>

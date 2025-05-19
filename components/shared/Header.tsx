@@ -31,7 +31,7 @@ export default function Header() {
           <Image
             width={600}
             height={515}
-            src={"/images/header.png"}
+            src={"/images/Header.png"}
             alt="header image represents to share positivetis"
           />
         </div>
