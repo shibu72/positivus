@@ -57,7 +57,7 @@ export default function Service() {
         </TitleSub>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-center justify-items-center p-4 m-auto">
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-6 items-center justify-items-stretch p-4 m-auto">
         {services.map((service, idx) => (
           <ServiceCard key={idx} {...service} />
         ))}

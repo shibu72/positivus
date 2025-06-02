@@ -10,7 +10,7 @@ interface TitleSubProps {
 export default function TitleMain({ children, className }: TitleMainProps) {
   return (
     <h2
-      className={` text-[2.5rem] bg-[var(--bgGreen)] rounded-lg px-1 font-semibold w-fit ${className}`}
+      className={` text-[2.5rem] bg-[var(--colorGreen)] rounded-lg px-1 font-semibold w-fit ${className}`}
     >
       {children}
     </h2>
