@@ -6,17 +6,19 @@ import Work from "@/components/shared/Work";
 import Cta from "@/components/ui/Cta";
 import Team from "@/components/shared/Team";
 import React from "react";
+import Contact from "@/components/shared/Contact";
 
 export default function Home() {
   return (
     <div>
       <Header />
-      <Service/>
-      <Cta/>
-      <Case/>
-      <Work/>
-      <Team/>
-      <Testimonials/>
+      <Service />
+      <Cta />
+      <Case />
+      <Work />
+      <Team />
+      <Testimonials />
+      <Contact/>
     </div>
   );
 }
